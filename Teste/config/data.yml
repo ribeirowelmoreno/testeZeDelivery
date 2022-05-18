@@ -1,0 +1,11 @@
+users:
+  valid-user:
+    email: 'testequalidade.well@gmail.com'
+    pass: 'Teste@123'
+  invalid-user:
+    email: 'testeinvalido@gmail.com'
+    pass: 'Teste@123'
+  address:
+    street: 'Rua da Cerveja'
+    number: '1000'
+    neighborhood: 'Becks'
